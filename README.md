@@ -7,7 +7,6 @@ A polished, responsive wall-calendar-inspired React component with:
 - Local storage persistence
 - Holiday indicators
 
-This project is frontend-only and does not require a backend.
 
 ## Tech Stack
 
@@ -83,14 +82,6 @@ Open the app at the URL shown in terminal (usually `http://localhost:5173`).
 - `npm run preview` - preview production build
 - `npm run lint` - run ESLint
 
-## Submission Checklist
-
-- [ ] Public repository link
-- [ ] Short demo video showing:
-  - date range selection
-  - notes usage (monthly + date)
-  - responsive behavior (desktop + mobile)
-- [ ] Optional deployed demo link (Vercel/Netlify)
 
 ## Notes / Trade-offs
 
