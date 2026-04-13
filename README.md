@@ -87,4 +87,4 @@ Open the app at the URL shown in terminal (usually `http://localhost:5173`).
 
 - Holiday data is static mock data for challenge scope.
 - Notes are client-only and browser-local by design.
-- No backend/API was added intentionally, per assignment scope.
+- No backend/API was added intentionally.
